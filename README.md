@@ -5,12 +5,10 @@
  <img src="https://d7umqicpi7263.cloudfront.net/img/product/582cca58-8f63-4713-854a-dfe3dd0c3daf.png" width="200" alt="Nest Logo" /></a>
 </p>
 
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-
 ## Description
 
-Microservice with Nest and SendGrid for sending emails
+Microservice with Nest and SendGrid for sending emails </br>
+Tutorial for this project on Medium: https://medium.com/@jemorini13/nest-js-sendgrid-criando-micro-servi%C3%A7o-de-envio-de-email-e8a74715d1e8
 
 ## Installation
 
